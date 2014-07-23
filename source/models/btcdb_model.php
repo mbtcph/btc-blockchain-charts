@@ -3,7 +3,6 @@
 
 class Btcdb_model extends CI_Model {
 
-
 /***********************************************************************/
 
   public function get_stats_daily_by_year($year = "")

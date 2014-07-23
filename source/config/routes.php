@@ -41,7 +41,6 @@
 $route['default_controller'] = "main";
 $route['404_override'] = 'error_404';
 
-
 $route['main'] = "main";
 $route['main/(.*)'] = "main/$1";
 
